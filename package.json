@@ -1,0 +1,21 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Protractor Practice",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^7.0.0",
+    "typescript": "3.9.3",
+    "jasmine": "3.5.0",
+    "@types/jasmine": "2.8.7",
+    "@types/jasminewd2": "2.0.8",
+    "ts-node": "8.10.1",
+    "@types/node": "12.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amitesh",
+  "license": "ISC"
+}
